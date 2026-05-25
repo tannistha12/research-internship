@@ -1,0 +1,49 @@
+Goal for Your 15-20 Page Literature Review:
+- Introduction (problem statement, importance of heavy rainfall/extreme precipitation)
+- Background on climate models (CMIP5 vs CMIP6)
+- Methodology of how studies evaluate models
+- Key Findings (model performance, projections, comparisons)
+- Impacts of heavy rainfall
+- Gaps, limitations, and future directions
+- Conclusion
+
+Week-Long Workflow:
+Day 1: Define Scope + Problem Statement 
+
+- Write 1-2 pages on why heavy rainfall matters (floods, agriculture, disasters, urban impacts, especially in India if relevant since Mamta Yadav IMD).
+- Define key terms: extreme precipitation, heavy rainfall indices (e.g., RX5day, R95p, R20mm from ETCCDI).
+- Draft your problem statement: e.g., "Despite advancements in CMIP6, uncertainties remain in simulating heavy rainfall events, affecting adaptation planning."
+- Action: Search Google Scholar for "heavy rainfall" OR "extreme precipitation" + "review" to see existing reviews.
+
+Day 2: Understand CMIP6 & Model Comparison
+
+- Read about what CMIP6 is, how it differs from CMIP5 (higher resolution in some models, better physics, new SSP scenarios vs old RCPs).
+- Note common evaluation metrics: bias, RMSE, spatial patterns, ability to capture extremes.
+- Action this hour: Browse the Copernicus link Mamta sent and note what data is available (historical UTCI, but you can find precipitation datasets too).
+
+Days 3-5: Collect & Read Papers (Core Research)
+
+- Use Google Scholar with these searches:
+"CMIP6 extreme precipitation" OR "CMIP6 heavy rainfall"
+"CMIP6 vs CMIP5 extreme precipitation"
+"CMIP6" + your region (e.g., India, South Asia, Global)
+
+- Aim to collect 15-25 good papers. Prioritize recent ones (2021-2026).
+- For each paper, make notes in a simple table:
+Authors/year
+Region
+Models used
+Key findings (performance, projections)
+Strengths/weaknesses
+
+Day 6: Synthesize & Analyze
+
+- Group papers by themes: Model performance → Future projections → Regional differences → Impacts.
+- Identify patterns: Do most studies show CMIP6 is better than CMIP5 for extremes? What are common biases?
+- Write the "synthesis" sections.
+
+Day 7: Write Gaps, Conclusion + Polish
+
+- Discuss limitations (e.g., model resolution for local extremes, uncertainties in projections).
+- Suggest future work.
+- Add references (use Zotero or Mendeley if possible).
